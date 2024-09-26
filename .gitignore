@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Integration/DesignTimeBuild/.dtbcache.v2
+/.vs/Integration/FileContentIndex
+/.vs/Integration/v17
+/.vs/IntegrationCase-main-updated/v17
+/.vs/ProjectEvaluation
+/.vs
+/Integration/bin/Debug/net7.0
+/Integration/obj
